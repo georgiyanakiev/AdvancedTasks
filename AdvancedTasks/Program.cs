@@ -7,7 +7,7 @@ using System.Threading;
 
 namespace AdvancedTasks
 {
-   public static class Program
+   public static class Program4
     {
        public static void ThreadMethod()
         {
